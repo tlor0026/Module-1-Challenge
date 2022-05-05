@@ -8,7 +8,7 @@ Please visit https://github.com/tlor0026/Module-1-Challenge for the HTML and CSS
 On the page you can find:
 1. Our Company Name :Title
 ![alt text](Develop/assets/images/Horseon Title.PNG)
-2. Navigation Bar: clicking on each link will bring you to its designated area.
+3. Navigation Bar: clicking on each link will bring you to its designated area.
 ![alt text](Develop/assets/images/Navigation.PNG)
 3. We've added "alt" information tied to our images for image attrubutions.
 ![alt text](Develop/assets/images/Alt Texts.PNG)
