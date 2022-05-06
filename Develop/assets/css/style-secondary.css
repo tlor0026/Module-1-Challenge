@@ -67,10 +67,10 @@ p {
 }
 /* homepage hero */
 .hero {
-    margin: 20px;
-    background-color: white;
-    font-size: 20px;
-    color: blue;
+    background-position: bottom;
+    height: auto;
+    text-align: center;
+    margin-bottom: 40px;
   }
 /* secondary page hero */
 .hero-secondary {
