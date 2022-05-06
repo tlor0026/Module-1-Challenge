@@ -16,7 +16,7 @@ Please visit https://github.com/tlor0026/Module-1-Challenge for the HTML and CSS
 ![alt text](Develop/assets/images/header.PNG)
 5. Changes to some of the HTML semantic HTML Elements as well.
 ![alt text](Develop/assets/images/Id%20elements.PNG)
-![alt text](develop/assets/images/header.PNG)
+![alt text](Develop/assets/images/header.PNG)
 5. Changes to some of the HTML semantic HTML Elements as well.
 ![alt text](Develop/assets/images/Id%20elements.PNG)
 
