@@ -5,6 +5,8 @@ Please use this file as a reference while navigating the site. There have been n
 USAGE
 Please visit https://github.com/tlor0026/Module-1-Challenge for the HTML and CSS files.
 
+Though there are many subtle changes made to the site, below we've highlighted some main changes with our page and screen shots to accompany them. Please take your time to review the site entirely to catch all the changes!
+
 1. Our Company Name :Title
 ![alt text](Develop/assets/images/Horseon%20Title.PNG)
 2. Navigation Bar: clicking on each link will bring you to its designated area.
