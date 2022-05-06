@@ -20,8 +20,7 @@ Please visit https://github.com/tlor0026/Module-1-Challenge for the HTML and CSS
 =======
 ![alt text](develop/assets/images/header.PNG)
 5. Changes to some of the HTML semantic HTML Elements as well.
-![alt text(Develop/assets/images/Id%20elements.PNG}
->>>>>>> 3d5b64674676b817b90e4fb68cdad0e8a6febec8
+![alt text(Develop/assets/images/Id%20elements.PNG)
 
 CREDITS
 Alot of changes implemented was learned through our module https://umn.bootcampcontent.com/University-of-Minnesota-Boot-Camp/UofM-VIRT-BO-FSF-PT-04-2022-U-B
